@@ -1,0 +1,15 @@
+dev
+````
+logging.level.org.springframework=trace
+
+prod
+````
+logging.level.org.springframework=info
+
+TRACE
+DEBUG
+INFO
+WARN
+ERROR
+FATAL
+OFF
