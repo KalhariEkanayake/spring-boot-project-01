@@ -14,4 +14,5 @@ ERROR
 FATAL
 OFF
 
-C:\Users\ACER\.m2\repository\com\demoproject\springboot\learn-spring-boot\0.0.1-SNAPSHOT\learn-spring-boot-0.0.1-SNAPSHOT.jar
+C:\Users\ACER\.m2\repository\com\demoproject\springboot\learn-spring-boot\0.0.1-SNAPSHOT\
+java -jar learn-spring-boot-0.0.1-SNAPSHOT.jar
